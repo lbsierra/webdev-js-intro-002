@@ -10,7 +10,8 @@ const submissionBtn = document.getElementById("submission-btn")
 // Declare your variables here.
 
 const resolution = "Read more books"
-const currentYear ="2024";
+const currentYear = 2024;
+let willMeetResolution = 
 
 function updateYear() {
     // write the logic
