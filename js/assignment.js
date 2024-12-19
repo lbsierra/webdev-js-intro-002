@@ -9,6 +9,9 @@ const submissionBtn = document.getElementById("submission-btn")
 
 // Declare your variables here.
 
+const resolution = "Read more books"
+
+
 function updateYear() {
     // write the logic
 
