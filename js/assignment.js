@@ -11,7 +11,7 @@ const submissionBtn = document.getElementById("submission-btn")
 
 const resolution = "Read more books"
 const currentYear = 2024;
-let willMeetResolution = 
+let willMeetResolution = true;
 
 function updateYear() {
     // write the logic
